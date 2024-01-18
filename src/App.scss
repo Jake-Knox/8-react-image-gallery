@@ -9,9 +9,9 @@ $night-gallery-box-shadow: rgba(255, 255, 255, 0.1); // Box shadow color for gal
 
 .App {
 
-
   text-align: center;
   background-color: $night-background;
+  height: 100vh;
 
   h1 {
     color: $night-text;

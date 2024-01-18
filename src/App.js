@@ -7,6 +7,7 @@ import './App.scss';
 import config from './config';
 
 // https://unsplash.com/developers
+// 50 calls to api per hour
 
 const App = () => {
 
